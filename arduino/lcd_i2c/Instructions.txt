@@ -1,0 +1,11 @@
+1.  Download the NewLiquidCrystal_1.5.1 zip file and i2c_scanner folder.
+2.  Extract the zip file.
+3.  Copy the "NewLiquidCrystal_lib" folder and paste it in your "...\Arduino\libraries" directory.
+4.  Upload and run the i2C_scanner sketch to determine the i2C address.  
+    This address will be used to map the pins on the LCD to the 4 pins on the i2C board and allow for 
+    proper communication between the two.
+5.  Turn on the Serial Monitor under Tools.  If everything is working properly, you should see text
+    similar to:  "I2C device found at address 0x27  !"  (You're board's I2C address may be different).
+
+
+  

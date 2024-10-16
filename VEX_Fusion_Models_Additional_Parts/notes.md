@@ -1,7 +1,8 @@
 # Important Notes #
 
 * This folder contains VEX parts that were not included as part of the Fusion 360 VEX 5 CAD Library zip file.
-* All of the files here are in STEP format (this is standard CAD file format that you can upload into Fusion 360)
+* All of the files here are in STEP format (this is standard CAD file format that you can upload into Fusion 360).
+* You'll need to upload the files individually so only upload the files you need to save space and time.
 * Pictures are also included so that you can see what the components look like.
 
 ## Parts Organized by Folder ##

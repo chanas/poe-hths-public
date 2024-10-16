@@ -1,9 +1,10 @@
 # Important Notes #
 
-* This folder contains VEX parts that were not included as part of the Fusion 360 VEX 5 CAD Library zip file.
+* This folder contains VEX parts that were not included as part of the Fusion 360 VEX V5 CAD Library zip file.
 * All of the files here are in STEP format (this is standard CAD file format that you can upload into Fusion 360).
-* You'll need to upload the files individually so only upload the files you need to save space and time.https://github.com/chanas/poe-hths-public/blob/main/VEX_Fusion_Models_Additional_Parts/notes.md
-* [Uploading STEP File Demo](/UploadingSTEPFilesFusion.gif)
+* If you don't have GitHub desktop installed on your computer, clone the entire repository, but select the download as a ZIP file option.  After the ZIP file has downloaded, extract it on your computer.  The files are now ready to be uploaded into Fusion.
+* You'll need to upload the files individually (click the link below for a demo) so only upload the files you need to save space and time.
+* [Uploading STEP File Demo](/vex-fusion-models-additional-parts/upload-stp-file-demo.gif)
 * Pictures are also included so that you can see what the components look like.
 
 ## Parts Organized by Folder ##

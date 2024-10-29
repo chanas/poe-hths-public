@@ -32,6 +32,8 @@
     3.  RackGear
     4.  SlideCBracket
     5.  SlideTrack
+    6.  6-32 x 1/4" Screw
+    7.  6-32 x 1/2" Screw
       
 5.  Spacers
     1.   ⅛”
